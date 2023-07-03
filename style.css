@@ -1,0 +1,21 @@
+*{
+    m : 0;
+    padding: 0;
+}
+
+
+.main{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+
+
+}
+
+
+body{
+    background-image: url("images/haha.jpg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
